@@ -19,7 +19,7 @@ import org.xml.sax.SAXException;
 
 public class Glowna {
 	public Glowna(){
-		String xml="";
+		String xml="sdsdsds";
 		try {
 			xml = this.konewrtujNaXlm();
 			System.out.println(xml);
